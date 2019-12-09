@@ -1,0 +1,4 @@
+base   katex
+author Lars Fenneberg
+email  lf@elemental.net
+name   KaTeX plugin
